@@ -119,3 +119,13 @@ Rather than treating all findings equally, risks were evaluated and prioritized 
 - Technical documentation
 - Security findings and recommendations
 
+## Project Deliverable
+
+The complete security risk register created during this assessment is available below:
+
+### 📊 [View / Download the Complete Risk Register](King-Angel-Productions-Security-Risk-Register.xlsx)
+
+The workbook contains the identified security findings, supporting evidence, likelihood and impact assessments, risk ratings, remediation recommendations, and remediation priorities.
+
+> **Note:** King Angel Productions and all scenarios, personnel, systems, and findings used in this project are fictional and were created solely for cybersecurity training and portfolio demonstration.
+
