@@ -1,4 +1,4 @@
-Project screenshots and evidence.
+
 # Security Controls & Risk Assessment
 
 ## Overview
